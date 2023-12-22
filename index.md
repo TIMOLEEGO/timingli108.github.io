@@ -15,7 +15,7 @@ Prior to this, I graduated from Lanzhou University with a Bachelor's degree in M
 
 ## News
 
-- **[Jan. 2023]** Our paper about multi-drone multi-target tracking is accepted to IEEE Transactions on Multimedia.
+- **[Jan. 2023]** Our paper about multi-drone multi-target tracking is accepted to IEEE Transactions on Multimedia(TMM).
 
 <!-- - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
