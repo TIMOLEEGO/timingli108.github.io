@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 My name is Timing Li, and I am currently a PhD student in the College of Intelligence and Computing at Tianjin University, supervised by Prof. Pengfei Zhu (朱鹏飞). 
-Prior to this, I graduated from Lanzhou University with a Bachelor's degree in Microelectronics Science and Technology. Subsequently, I pursued and obtained a Master's degree in Integrated Circuit Engineering from Tianjin University.
+Prior to this, I graduated from Lanzhou University with a Bachelor's degree in Microelectronics Science and Technology. Subsequently, I obtained a Master's degree in Integrated Circuit Engineering from Tianjin University.
 
 <!-- My main research interests are multi-modal alignment, multi-modal fusion and crowd counting. -->
 ## Research Interests
