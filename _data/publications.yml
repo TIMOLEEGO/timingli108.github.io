@@ -6,7 +6,7 @@ main:
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/document/10008047
     code: https://github.com/VisDrone/Multi-Drone-Multi-Object-Detection-and-Tracking
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:F6aCd4QhNVgJ:scholar.google.com/&output=citation&scisdr=ClGdYTpYENmY4imp4BU:AFWwaeYAAAAAZYWv-BWQQQs2v48EZN8uiU0cyGY&scisig=AFWwaeYAAAAAZYWv-CAn8Irm98N6Wj-73Mm0mZo&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:F6aCd4QhNVgJ:scholar.google.com/&output=citation&scisdr=ClGdYTpYENmY4imp4BU:AFWwaeYAAAAAZYWv-BWQQQs2v48EZN8uiU0cyGY&scisig=AFWwaeYAAAAAZYWv-CAn8Irm98N6Wj-73Mm0mZo&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/TMM2023.png
     # notes: Early Accept
 
