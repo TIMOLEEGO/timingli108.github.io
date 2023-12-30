@@ -10,13 +10,13 @@ main:
     image: ./assets/img/TMM2023.png
     # notes: Early Accept
 
-  # - title: "Non-Uniformity Correction of Infrared Images Based on Improved CNN With Long-Short Connections"
-  #   authors: <strong>Timing Li*</strong>, Yiqiang Zhao, Yao Li, Guoqing Zhou
-  #   conference_short: IEEE Photon. J.
-  #   conference: IEEE Photonics Journal <strong>(IEEE Photon. J.)</strong>, 2021.
-  #   pdf: https://ieeexplore.ieee.org/abstract/document/9432740
-  #   # code: -
-  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jukBmbS482AJ:scholar.google.com/&output=citation&scisdr=ClGdYTpYEN6c-iez2vM:AFWwaeYAAAAAZYW1wvNnManKrsPkouK_iVuAZM4&scisig=AFWwaeYAAAAAZYW1wmnz2AcB5YwCLZZUTJ5u2dg&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
-  #   # notes: Oral Presentation
-  #   image: ./assets/img/IPJ2021.png
+  - title: "Non-Uniformity Correction of Infrared Images Based on Improved CNN With Long-Short Connections"
+    authors: <strong>Timing Li*</strong>, Yiqiang Zhao, Yao Li, Guoqing Zhou
+    conference_short: IEEE Photon. J.
+    conference: IEEE Photonics Journal <strong>(IEEE Photon. J.)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9432740
+    # code: -
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jukBmbS482AJ:scholar.google.com/&output=citation&scisdr=ClGdYTpYEN6c-iez2vM:AFWwaeYAAAAAZYW1wvNnManKrsPkouK_iVuAZM4&scisig=AFWwaeYAAAAAZYW1wmnz2AcB5YwCLZZUTJ5u2dg&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    # notes: Oral Presentation
+    image: ./assets/img/IPJ2021.png
