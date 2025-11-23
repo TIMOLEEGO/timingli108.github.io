@@ -1,5 +1,16 @@
 main:
 
+  - title: "A Large-Scale Drone based Thermal Infrared Benchmark and Inception Transformer Network for Crowd Counting"
+    authors: Xing Wang, <strong>Timing Li*</strong>, Ya Liu, Shuanglong Yao, Ye Liu, Nan Yang, Pengfei Zhu
+    conference_short: PR
+    conference: Pattern Recognition <strong>(TMM)</strong>, 2025.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0031320325014414/pdfft?crasolve=1&r=9a2f8f000d342107&ts=1763889290261&rtype=https&vrr=UKN&redir=UKN&redir_fr=UKN&redir_arc=UKN&vhash=UKN&host=d3d3LnNjaWVuY2VkaXJlY3QuY29t&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&re=X2JsYW5rXw%3D%3D&ns_h=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ns_e=X2JsYW5rXw%3D%3D&rh_fd=rrr)n%5Ed%60i%5E%60_dm%60%5Eo)%5Ejh&tsoh_fd=rrr)n%5Ed%60i%5E%60_dm%60%5Eo)%5Ejh&hc=~rrr)n%5Ed%60i%5E%60_dm%60%5Eo)%5Ejhwrrr)n%5Ed%60i%5E%60_dm%60%5Eo)%5Ejhwrrr)n%5Ed%60i%5E%60_dm%60%5Eo)%5Ejh&iv=a0cec9b90a6302f2ba2e0da5cb627a19&token=30313565383437666437393039393662393232386363336462346439623131663739363538383238303561386233363237666264656232396161363131646534353735623137313137303234373962373966623935386634663562376130653031663236343436613262376237353431393739393538656566623761306333393a666661373165323137663531666432346364303062343763&text=90831e38c20a99f8c697e289502163b73ddc82d20a065021c17bde10c4c49b1901c1e32bc4c3c2bebf1dae1ac8b8dac17a713b28d9523edad6bae19babd9ef462f74c461bb495825b27b71112362cd2cecef4c7a1fce2c8bf61c54a0c132c53bd2274dfae85d58d4ccbe30651b778e4b11b8cbd61f34f39f0283432c8a63afe9a31894c752d9121981ae53d0e03c76fdf921f0de0318f939bff11919fa0d0b4aa5a0057e255f9d0996340a69ad72e566311048a5b1214c539eed2489d0ad59d0c9c278e5af71ff400d5b03e874bd1a53cf37bd6f952b293510b7befea375468036b604e1cc62bfd234bde948888aab83016e782d808050869b80b48480a4ae4476470a0d4b5dfcbe7d0c4e542544563d5f1d6182a8d9d2284f3626ab605272f4967c3160b6780340535b48349dfba4d1&original=3f6d64353d3266666666383034613439376266343133396135646562323034626164396333267069643d312d73322e302d53303033313332303332353031343431342d6d61696e2e706466&chkp=1c&rack=9a2f8f000d342107
+    code: Coming soon
+    dataset: Coming soon
+    #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:F6aCd4QhNVgJ:scholar.google.com/&output=citation&scisdr=ClGdYTpYENmY4imp4BU:AFWwaeYAAAAAZYWv-BWQQQs2v48EZN8uiU0cyGY&scisig=AFWwaeYAAAAAZYWv-CAn8Irm98N6Wj-73Mm0mZo&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/PR2025.png
+    # notes: Early Accept
+  
   - title: "Robust Multi-Drone Multi-Target Tracking to Resolve Target Occlusion: A Benchmark"
     authors: Zhihao Liu, Yuanyuan Shang, <strong>Timing Li*</strong>, Guanlin Chen, Yu Wang, Qinghua Hu, Pengfei Zhu*
     conference_short: TMM
