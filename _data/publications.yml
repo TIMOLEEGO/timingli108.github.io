@@ -23,7 +23,7 @@ main:
     notes: Early Accept
     
   - title: "Multimodal Image Registration for Low Altitude Platforms: Methods, Challenges, and Future Trends"
-    authors: <strong>Timing Li*</strong>, Bing Cao, Pengfei Zhu*, Kewen Li
+    authors: <strong>Timing Li</strong>, Bing Cao, Pengfei Zhu*, Kewen Li
     conference_short: TST 
     conference: Tsinghua Science and Technology <strong>(TST)</strong>, 2026.
     pdf: https://www.sciopen.com/article/10.26599/TST.2026.9010047
