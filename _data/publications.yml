@@ -1,7 +1,7 @@
 main:
 
   - title: "Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion"
-    authors: <strong>Timing Li</strong>, Bing Cao, Jiahe Feng, Haifang Cao, Qinghua Hu, Pengfei Zhu
+    authors: <strong>Timing Li</strong>, Bing Cao, Jiahe Feng, Haifang Cao, Qinghua Hu, Pengfei Zhu*
     conference_short: TIP 
     conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2026.
     # pdf: https://www.sciopen.com/article/10.26599/TST.2026.9010047
