@@ -5,6 +5,7 @@
 <ul style="margin:0 0 20px;">
   <!-- <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li> -->
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859"><autocolor>IEEE Geoscience and Remote Sensing Letters (GRSL)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications"><autocolor>Expert Systems With Applications (ESWA)</autocolor></a></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4> -->
