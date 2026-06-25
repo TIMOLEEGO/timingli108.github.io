@@ -1,6 +1,6 @@
 main:
 
-  - title: "Local-to-global Cross-modal Coordination for Self-supervised RGB-T Tracking"
+  - title: "Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion"
     authors: <strong>Timing Li</strong>, Bing Cao, Jiahe Feng, Haifang Cao, Qinghua Hu, Pengfei Zhu
     conference_short: TIP 
     conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2026.
