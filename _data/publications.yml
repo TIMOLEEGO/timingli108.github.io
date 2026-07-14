@@ -1,5 +1,16 @@
 main:
 
+  - title: "Bi-directional Self-Registration for Misaligned Infrared-Visible Image Fusion"
+    authors: <strong>Timing Li</strong>, Bing Cao, Qinghua Hu, Pengfei Zhu*
+    conference_short: PR 
+    conference: Pattern Recognition <strong>(PR)</strong>, 2026.
+    # pdf: https://www.sciopen.com/article/10.26599/TST.2026.9010047
+    code: https://github.com/TIMOLEEGO/B-SR
+    # dataset: Coming soon
+    #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:F6aCd4QhNVgJ:scholar.google.com/&output=citation&scisdr=ClGdYTpYENmY4imp4BU:AFWwaeYAAAAAZYWv-BWQQQs2v48EZN8uiU0cyGY&scisig=AFWwaeYAAAAAZYWv-CAn8Irm98N6Wj-73Mm0mZo&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/PR2026.png
+    notes: Early Accept
+  
   - title: "Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion"
     authors: <strong>Timing Li</strong>, Bing Cao, Jiahe Feng, Haifang Cao, Qinghua Hu, Pengfei Zhu*
     conference_short: TIP 
