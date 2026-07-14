@@ -15,6 +15,7 @@ Prior to this, I graduated from Lanzhou University with a Bachelor's degree in M
 
 ## News
 
+- **[Jul. 2026]** Our paper about multi-modal image registration is accepted to Pattern Recognition (PR).
 - **[Jun. 2026]** Our paper about multi-modal image registration is accepted to IEEE Transactions on Image Processing (TIP).
 - **[Jun. 2026]** Our paper about multi-modal single object tracking is accepted to European Conference on Computer Vision (ECCV).
 - **[May 2026]** Our paper about multi-modal image registration is accepted to Tsinghua Science and Technology (TST).
